@@ -1,1 +1,1 @@
-#Next.js Boilerplate Template
+# Next.js Boilerplate Template
